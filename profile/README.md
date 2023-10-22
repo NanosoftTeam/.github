@@ -1,4 +1,4 @@
-# Welcome to StudentOrganizers Organization! 📚✏️
+# Welcome to Nanosoft Organization! 📚✏️
 
 We are Piotr Gawron [@norwagov] and Szymon Elsner [@SzymonEls], students at the Academic High School of Wrocław University of Science and Technology. 👨‍🎓👨‍🎓
 
