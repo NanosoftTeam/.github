@@ -1,6 +1,6 @@
 # Welcome to Nanosoft Organization! 📚✏️
 
-We are Piotr Gawron [@norwagov] and Szymon Elsner [@SzymonEls], students at the Academic High School of Wrocław University of Science and Technology. 👨‍🎓👨‍🎓
+We are Piotr Gawron and Szymon Elsner, students at the Academic High School of Wrocław University of Science and Technology. 👨‍🎓👨‍🎓
 
 ## About Us
 
