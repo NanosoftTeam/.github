@@ -1,22 +1,17 @@
-## Hey there! 👋
+# Welcome to StudentOrganizers Organization! 📚✏️
 
-What is this organization about? Why we are there? **Who** we are?
-*Yeah... so many question, but not that much time...*
+We are Piotr Gawron [@norwagov] and Szymon Elsner [@SzymonEls], students at the Academic High School of Wrocław University of Science and Technology. 👨‍🎓👨‍🎓
 
-### Quick presentation
-Our names are *Szymon Elsner* and *Piotr Gawron*. We participate to the Politechnika Wrocławska Academic High School.
+## About Us
 
+📖 We're passionate about programming and creating new things. Our mission is to create tools and resources that make the academic journey smoother and more enjoyable.
 
-    Coming soon...
+🚀 Here are some of the things we're working on:
 
-<!--
+- 📅 Student Planners: Stay on top of your assignments, exams, and events with our intuitive planner tools.
+- 📝 Study Resources: Access a collection of study guides, notes, and helpful materials.
+- 🌐 Online Learning: Explore our online courses and tutorials to enhance your skills.
+- 
+📬 Contact us at [norwagov45@gmail.com] 📧
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
+Let's make the academic life easier together! 🌟
